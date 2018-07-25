@@ -34,7 +34,7 @@
     {
     "id": 148,
     "name": "Samal Island",
-    "imageUrl": "http://travel.philippinecentral.com/wp-content/uploads/2014/06/boracay_sand_castle.jpg",
+    "imageUrl": "http://www.samal-island.com/wp-content/uploads/2013/09/slide-2.jpg",
     "price": 1761,
     "priceCurrency": "km",
     "lat": 7.113930,
@@ -52,6 +52,38 @@
     "lng": 118.786815
        
        
+  },
+     {
+    "id": 150,
+    "name": "Mt. Pulag",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0a/8a/f3/78/mt-pulag.jpg",
+    "price": 126,
+    "priceCurrency": "km",
+    "lat": 16.599021,
+    "lng": 120.899081 
+       
+       
+  },
+     {
+    "id": 151
+    "name": "Bangui Windmills",
+    "imageUrl": "https://hannahsbeachresort.com/wp-content/uploads/2013/07/n_0002_8.jpg",
+    "price": 279,
+    "priceCurrency": "km",
+    "lat": 18.528916,
+    "lng": 120.718035 
+       
+       
+  },
+    {
+    "id": 152
+    "name": "Laoag
+    "imageUrl": "https://sa.kapamilya.com/absnews/abscbnnews/media/2017/news/05/18/laoag-city-2017.jpg?ext=.jpg",
+    "price": 218,
+    "priceCurrency": "km",
+    "lat": 18.196001,
+    "lng": 120.594070 
+     
   },
   {
     "id": 154,
