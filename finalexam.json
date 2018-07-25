@@ -64,27 +64,7 @@
        
        
   },
-     {
-    "id": 151
-    "name": "Bangui Windmills",
-    "imageUrl": "https://hannahsbeachresort.com/wp-content/uploads/2013/07/n_0002_8.jpg",
-    "price": 279,
-    "priceCurrency": "km",
-    "lat": 18.528916,
-    "lng": 120.718035 
-       
-       
-  },
-    {
-    "id": 152
-    "name": "Laoag",
-    "imageUrl": "https://sa.kapamilya.com/absnews/abscbnnews/media/2017/news/05/18/laoag-city-2017.jpg?ext=.jpg",
-    "price": 218,
-    "priceCurrency": "km",
-    "lat": 18.196001,
-    "lng": 120.594070 
-     
-  },
+    
   {
     "id": 154,
     "name": "Sky Ranch Tagaytay",
