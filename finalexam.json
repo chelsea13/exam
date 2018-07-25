@@ -1,0 +1,97 @@
+[
+{
+    "id": 145,
+    "name": "Rizal Park Manila",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Rizal_Park_Front_View.jpg/1200px-Rizal_Park_Front_View.jpg",
+    "price": 266 ,
+    "priceCurrency": "km",
+    "lat":14.582150,
+    "lng": 120.977059
+    
+  },
+  {
+    "id": 146,
+    "name": "Manila Ocean Park",
+    "imageUrl": "http://www.sykes.com/philippines/wp-content/uploads/2016/09/Photo-from-Manila-Ocean-Park-Blog.jpg",
+    "price": 267,
+    "priceCurrency": "km",
+    "lat": 14.579395,
+    "lng": 120.972539
+      
+     
+  },
+     {
+    "id": 147,
+    "name": "Boracay",
+    "imageUrl": "http://travel.philippinecentral.com/wp-content/uploads/2014/06/boracay_sand_castle.jpg",
+    "price": 710,
+    "priceCurrency": "km",
+    "lat": 11.967822,
+    "lng": 121.920582
+        
+       
+  },
+         {
+    "id": 153,
+    "name": "Samal Island",
+    "imageUrl": "http://www.samal-island.com/wp-content/uploads/2013/09/slide-2.jpg",
+    "price": 1,761,
+    "priceCurrency": "km",
+    "lat": 7.104254,
+    "lng": 125.717335
+     
+  },
+      {
+    "id": 154,
+    "name": "Sky Ranch Tagaytay",
+    "imageUrl": "http://1.bp.blogspot.com/-c0rkgGgXn_0/Vck5flIw2VI/AAAAAAAAaOE/KJzRvfEQor8/s1600/skyranch_tagaytay_amusement_park.jpg",
+    "price": 342,
+    "priceCurrency": "km",
+    "lat": 14.096070,
+    "lng": 120.937059       
+     
+  },
+     {
+    "id": 155,
+    "name": "Calle Crisologo Vigan",
+    "imageUrl": "http://primer.com.ph/travel/wp-content/uploads/sites/6/2017/02/IMG_0314.jpg",
+    "price": 140,
+    "priceCurrency": "km",
+    "lat": 16.621501,
+    "lng": 120.317520
+     
+ 
+  },
+     {
+    "id": 156,
+    "name": "Sumaguing Cave Sagada",
+    "imageUrl": "http://driftwoodjourneys.com/wp-content/uploads/2013/09/2c879398a38e11e29ee622000aa80004_7.jpg",
+    "price": 176 ,
+    "priceCurrency": "km",
+    "lat": 17.102946,
+    "lng": 120.903331
+ 
+         
+  },
+  {
+    "id": 152,
+    "name": "Mines View Park Baguio",
+    "imageUrl": "http://primer.com.ph/travel/wp-content/uploads/sites/6/2016/01/image7.jpg",
+    "price": 61.3,
+    "priceCurrency": "km",
+    "lat": 16.419894,
+    "lng": 120.627892
+      
+  },
+
+     {
+    "id": 219,
+    "name": "House",
+    "imageUrl": "https://raw.githubusercontent.com/chelsea13/TSLU/master/bahay.jpg",
+    "price": 30,
+    "priceCurrency": "PHP",
+    "lat": 16.589047,
+    "lng": 120.317192
+     
+  }
+]
