@@ -31,6 +31,28 @@
         
        
   },
+    {
+    "id": 148,
+    "name": "Samal Island",
+    "imageUrl": "http://travel.philippinecentral.com/wp-content/uploads/2014/06/boracay_sand_castle.jpg",
+    "price": 1761,
+    "priceCurrency": "km",
+    "lat": 7.113930,
+    "lng": 125.717322
+        
+       
+  },
+     {
+    "id": 149,
+    "name": "Puerto Princesa Palawan",
+    "imageUrl": "https://airyougotravels.com/wp-content/uploads/2016/06/puerto-princesa-city-3.jpg",
+    "price": 1039,
+    "priceCurrency": "km",
+    "lat": 9.972349,
+    "lng": 118.786815
+       
+       
+  },
   {
     "id": 154,
     "name": "Sky Ranch Tagaytay",
