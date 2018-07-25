@@ -20,7 +20,7 @@
       
      
   },
-     {
+  {
     "id": 147,
     "name": "Boracay",
     "imageUrl": "http://travel.philippinecentral.com/wp-content/uploads/2014/06/boracay_sand_castle.jpg",
@@ -31,17 +31,7 @@
         
        
   },
-         {
-    "id": 153,
-    "name": "Samal Island",
-    "imageUrl": "http://www.samal-island.com/wp-content/uploads/2013/09/slide-2.jpg",
-    "price": 1,761,
-    "priceCurrency": "km",
-    "lat": 7.104254,
-    "lng": 125.717335
-     
-  },
-      {
+  {
     "id": 154,
     "name": "Sky Ranch Tagaytay",
     "imageUrl": "http://1.bp.blogspot.com/-c0rkgGgXn_0/Vck5flIw2VI/AAAAAAAAaOE/KJzRvfEQor8/s1600/skyranch_tagaytay_amusement_park.jpg",
@@ -62,7 +52,7 @@
      
  
   },
-     {
+  {
     "id": 156,
     "name": "Sumaguing Cave Sagada",
     "imageUrl": "http://driftwoodjourneys.com/wp-content/uploads/2013/09/2c879398a38e11e29ee622000aa80004_7.jpg",
@@ -83,8 +73,7 @@
     "lng": 120.627892
       
   },
-
-     {
+  {
     "id": 219,
     "name": "House",
     "imageUrl": "https://raw.githubusercontent.com/chelsea13/TSLU/master/bahay.jpg",
